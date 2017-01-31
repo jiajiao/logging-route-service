@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/cloudfoundry-samples/logging-route-service",
+	"ImportPath": "github.com/jiajiao/logging-route-service",
 	"GoVersion": "go1.7",
 	"Deps": [
 		{
